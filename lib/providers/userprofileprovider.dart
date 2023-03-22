@@ -25,8 +25,6 @@ class UserProfileProvider extends ChangeNotifier {
         'hobbies': student.hobby,
         'address': student.currAddress
        };
-
-
       cr.add(data1);
       notifyListeners();
       return Future.value();
