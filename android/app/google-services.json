@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "247583763272",
+    "firebase_url": "https://digital-handbook-85207-default-rtdb.firebaseio.com",
+    "project_id": "digital-handbook-85207",
+    "storage_bucket": "digital-handbook-85207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247583763272:android:b8d4412d47a888dd56a17d",
+        "android_client_info": {
+          "package_name": "com.example.digital_handbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247583763272-jn4j76q7ql0nesaqv10mgusu8jovb892.apps.googleUserscontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwsLp0ejSLnkd_c9ady58dy820OVwwuH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247583763272-jn4j76q7ql0nesaqv10mgusu8jovb892.apps.googleUserscontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "247583763272-5336fq6ovkotrh7uefu8ti4f5841eam8.apps.googleUserscontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.digitalHandbook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
